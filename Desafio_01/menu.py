@@ -1,4 +1,4 @@
-# Executar "agenda.py" para rodar o programa
+# Executar "app.py" para rodar o programa
 
 from agenda import (
   adicionar_contato,
