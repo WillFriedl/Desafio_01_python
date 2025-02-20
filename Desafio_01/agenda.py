@@ -1,4 +1,4 @@
-# Executar "agenda.py" para rodar o programa
+# Executar "app.py" para rodar o programa
 
 def adicionar_contato(contatos, nome, telefone, email):
   contato = {"nome": nome, "telefone": telefone, "email": email, "favorito": False}
